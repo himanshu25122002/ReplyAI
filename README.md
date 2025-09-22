@@ -40,7 +40,7 @@ ReplyAI is an intelligent ML/NLP system that classifies email replies into `posi
 
 2️⃣ **Navigate to the project folder**  
 ```bash
-cd path\to\SavaraAI
+cd path\to\ReplyAI
 ```
 3️⃣ **Install requirements**
 ```bash
