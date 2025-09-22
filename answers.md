@@ -1,4 +1,4 @@
-#Short Answer (Reasoning)
+# Short Answer (Reasoning)
 
 **1. If you only had 200 labeled replies, how would you improve the model without collecting thousands more?**  
 I would use **data augmentation** (e.g., paraphrasing, synonym replacement) to expand the dataset and apply **transfer learning** by fine-tuning a pre-trained language model like DistilBERT. Additionally, **active learning** could help by labeling the most informative examples first.
