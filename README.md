@@ -59,11 +59,11 @@ curl -X POST "http://127.0.0.1:8000/predict" -H "Content-Type: application/json"
 
 ## 📊 Model Comparison
 
-**Logistic Regression (baseline):** Accuracy 0.8427, Weighted F1 0.8404
+**Logistic Regression (baseline):->** Accuracy 0.8427, Weighted F1 0.8404
 
-**DistilBERT (transformer):** Accuracy 0.8498, Weighted F1 0.8477
+**DistilBERT (transformer):->** Accuracy 0.8498, Weighted F1 0.8477
 
-*Recommendation: Use DistilBERT in production for higher accuracy and better contextual understanding.*
+***Recommendation: Use DistilBERT in production for higher accuracy and better contextual understanding.***
 
 
 
